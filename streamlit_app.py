@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("Helloo!🧏🏻‍♀️")
+st.title("a beautiful blur - LANY")
 st.write(
-    "Roses are red, violets are blue, sugar is sweet, And so are you!"
+    "Cause You Have To - 2.19."
 )
-st.image("db24efc41ab7fd7fe32beb77d7271143-removebg-preview.png", width=200)
+st.image("8b3564ad9388ea28edeb1c6048059eba.jpg", width=200)
